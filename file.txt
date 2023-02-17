@@ -1,0 +1,98 @@
+GROUP:           11
+GRP TITLE:       EBDG Y-11939 TASK AB; Part B; 998951J;$86,238.17
+FUND:            099
+ACTIVITY:        W201
+CSECT IND:       Y
+PIN IND:         Y
+LABOR IND:       N
+PAY AGREE:       11939AB
+GROUP CAT:       02
+DAMAGE CODE:     BLANK
+LOCAL:           (BLANK)      
+FEDERAL:         N/A
+Group Auth Amt:  (BLANK)
+STATE/NP:        A90; AO
+CSPA:            11; 810500;(Blank); 998951J; 0.00
+New Total = $86,238.17 (Decrease of -$117,886.96)
+*******
+
+Please update Approp & FinCode, adjust authorization amount and
+update group title on the following groups under GC03 as follows and
+close group 71:
+
+GROUP:           71
+GRP TITLE:       PE FOR INFO ONLY;USE GROUP 70;998951J;100%;$708,237.64
+FUND:            09H
+ACTIVITY:        W201
+CSECT IND:       Y
+PIN IND:         Y
+LABOR IND:       Y
+PAY AGREE:       BLANK
+GROUP CAT:       03
+DAMAGE CODE:     BLANK
+LOCAL:           (BLANK)
+REIMBURSABLE:    BLANK
+FEDERAL:         N/A
+Group Auth Amt:  (BLANK)
+STATE/NP:        A56;AZ
+CSPA:            71; 810400; (Blank); 998951J; 0.00
+New Total = $708,237.64 (Increase of +$519,237.64)
+*******
+GROUP:           72
+GRP TITLE:       PE-PS-and-E; Part B;998951J;$440,995.33
+FUND:            09H
+ACTIVITY:        W201
+CSECT IND:       Y
+PIN IND:         Y
+LABOR IND:       Y
+PAY AGREE:       BLANK
+GROUP CAT:       03
+DAMAGE CODE:     BLANK
+LOCAL:           (BLANK)
+REIMBURSABLE:    BLANK
+FEDERAL:         N/A
+Group Auth Amt:  (BLANK)
+STATE/NP:        A56;AZ
+CSPA:            72; 810400; (Blank); 998951J; 0.00
+New Total = $440,995.33 (Decrease of -$375,237.62)
+*******
+
+
+GROUP:           73
+GRP TITLE:       PE INFO ONLY; USE GRP 70;998951J;100%;$137,054.65
+FUND:            09H
+ACTIVITY:        W201
+CSECT IND:       Y
+PIN IND:         Y
+LABOR IND:       Y
+PAY AGREE:       BLANK
+GROUP CAT:       03
+DAMAGE CODE:     BLANK
+LOCAL:           BLANK
+REIMBURSABLE:    BLANK
+FEDERAL:         N/A
+Group Auth Amt:  (BLANK)
+STATE/NP:        A56; AZ
+CSPA:            73; 810400; (Blank); 998951J; 0.00
+New Total = $137,054.65 (Decrease of -$512,945.35)
+*******
+
+Please set up the following new groups under GC03:
+
+GROUP:           74
+GRP TITLE:       Part B PS&E State Match/MARAD Vsl#1;998951J;$185,164
+FUND:            09H
+ACTIVITY:        W2**
+CSECT IND:       Y
+PIN IND:         Y
+LABOR IND:       Y
+PAY AGREE:       BLANK
+GROUP CAT:       03
+DAMAGE CODE:     BLANK
+LOCAL:           (BLANK)
+REIMBURSABLE:    BLANK
+FEDERAL:         N/A
+Group Auth Amt:  (BLANK)
+STATE/NP:        A56;AZ
+CSPA:            74; 810400; (Blank); 998951J; 0.00
+*******
